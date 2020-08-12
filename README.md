@@ -14,7 +14,7 @@ const getMessage = R.ifElse(
 );
 
 const now = new Date(Date.now());
-const end = new Date(2020, 7, 17, 12);
+const end = new npm publish --access publicDate(2020, 7, 17, 12);
 
 const daysCount = differenceInCalendarDays(now, end);
 
